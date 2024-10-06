@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently focused on system architecture, and in my free time, I enjoy exploring MLOps technology
+I'm currently focused on system architecture, and in my free time, I enjoy exploring MLOps technology and technology in general
 
 
 ## 🌐 Socials:
